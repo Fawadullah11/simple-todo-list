@@ -4,6 +4,10 @@ the demo of the website is https://fawadullah11.github.io/simple-todo-list/
 
 ![Screenshot 2025-02-11 092815](https://github.com/user-attachments/assets/999c76d4-3cf6-490e-85f4-4f92778169da)
 
+![Screenshot 2025-02-11 092915](https://github.com/user-attachments/assets/1d7d777c-e9fc-468b-b843-68d5c17e6bab)
+
+![Screenshot 2025-02-11 093006](https://github.com/user-attachments/assets/399f01df-2078-420d-930f-b155e53d019e)
+
 
 
 
